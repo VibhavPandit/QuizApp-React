@@ -8,7 +8,8 @@ To access the app, you can use the following login credentials:
 
 Please make sure to use the provided credentials to log in and the feedback are really appreciated.
 
-##About This Project
+**About This Project**  
+
 I took upon this project to learn about react.js. This application is an interactive web application that allows users to take quizzes.
 
 **Key Features:**
