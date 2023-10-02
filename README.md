@@ -11,7 +11,8 @@ Please make sure to use the provided credentials to log in and the feedback are 
 ##About This Project
 I took upon this project to learn about react.js. This application is an interactive web application that allows users to take quizzes.
 
-- **Key Features:**
+**Key Features:**
+  
 -User Authentication: The application first asks for username and password to continue with the test.
 -Quiz Taking: Registered users can take quizzes, the app provides immediate feedback on correct and incorrect answers, and it keeps track of the user's score.
 -Interactive: The app features an appealing and user-friendly design, ensuring a seamless and engaging experience for quiz takers.
