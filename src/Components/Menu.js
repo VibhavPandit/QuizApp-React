@@ -42,7 +42,7 @@ export default function Menu()
                     <h3 style = {{marginRight : 'auto'}}>Username</h3>
                     <input value = {Username} onChange={e => setUsername(e.target.value)} />
                     <h3 style = {{marginRight : 'auto'}}>Password</h3>
-                    <input value = {Password} onChange={e => setPassword(e.target.value)} />
+                    <input type = "password" value = {Password} onChange={e => setPassword(e.target.value)} />
 
                 </div>
                 <button class = "Start" onClick={() => {Verify()}}> Start </button>
